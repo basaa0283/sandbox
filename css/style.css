@@ -12,3 +12,17 @@ p{
 #header{
     font-size: 30px;
 }
+.black, .red , .green{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.black{
+    color:black;
+}
+.red{
+    color:red;
+}
+.green{
+    color:green;
+}
